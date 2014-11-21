@@ -1,0 +1,26 @@
+{
+  "1":
+  {"front": ".hide()", "back": "hides all paragraphs"},
+  "2":
+  {"front": ".show()", "back": "shows hidden divs"},
+  "3":
+  {"front": ".toggle()", "back": "switches visibility states"},
+  "4":
+  {"front": ".slideToggle()", "back": "toggles with slide effects"},
+  "5":
+  {"front": ".fadeIn()", "back": "fade in animation"},
+  "6":
+  {"front": ".fadeOut()", "back": "fade out animation"},
+  "7":
+  {"front": ".slideUp()", "back": "slide up animation"},
+  "8":
+  {"front": ".slideDown()", "back": "slide down animation"},
+  "9":
+  {"front": ".val()", "back": "gets value of selected"},
+  "10":
+  {"front": ".delay()", "back": "delay next animation"},
+  "11":
+  {"front": ".on()", "back": "call function on click of button"},
+  "12":
+  {"front": ".off()", "back": "unbind click handler"}  
+}
